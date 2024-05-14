@@ -4,7 +4,7 @@ This repo contains supplemental results produced by the research team for our ma
 
 Supplemental files
 
-Grand means are reported for ANOVA results in the manuscript. Subsequent analyses were conducted to produce estimated marginal means plots and pairwise comparison tables, which are used for the interpretation of results. Those plots and means are found here, with each file name in this repo representing a bivariate analysis.
+Grand means are reported for ANOVA results in the manuscript. Subsequent analyses were conducted to produce estimated marginal means plots and pairwise comparison tables, which are used for the interpretation of results. Those plots and means are found here, with each file name in this repo containing output from the corresponding bivariate analysis.
 
 Abstract
 
